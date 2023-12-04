@@ -6,4 +6,4 @@ meu nome é Emanuelly
 -aqui terá aula de JavaScripte HMTL
 
 -emanuelly.kazmierczak@escola.pr.gov.br
-https://tenor.com/pt-BR/view/real-madrid-bellingham-gif-10052786494803896731
+(https://tenor.com/pt-BR/view/real-madrid-bellingham-gif-10052786494803896731)
